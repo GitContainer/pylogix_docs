@@ -8,9 +8,9 @@ Occasionally you will have a long operation, and it is useful to show the user a
 
 Create a new controller tag `bool_array`, click on the three dots. Type 1024 in Dim 0, on in the top bar as shown below.
 
-![](/pics/create_bool_arr_01.png)
+![Create_Bool_01](/pics/create_bool_arr_01.png)
 
-![](/pics/create_bool_arr_02.png)
+![Create_Bool_02](/pics/create_bool_arr_02.png)
 
 Expand array and set some values to 1, 5 or so.
 
