@@ -8,9 +8,9 @@ Occasionally you will have a long operation, and it is useful to show the user a
 
 Create a new controller tag `bool_array`, click on the three dots. Type 1024 in Dim 0, on in the top bar as shown below.
 
-![Create_Bool_01](/pics/create_bool_arr_01.png)
+![Create_Bool_01](/pics/create_bool_arr_01.PNG)
 
-![Create_Bool_02](/pics/create_bool_arr_02.png)
+![Create_Bool_02](/pics/create_bool_arr_02.PNG)
 
 Expand array and set some values to 1, 5 or so.
 
@@ -51,8 +51,8 @@ bar.finish()
 
 Note that because we have an if statement inside the loop we get some funky results.
 
-![](/pics/progressbar_01.png)
+![Bar_01](/pics/progressbar_01.PNG)
 
 Comment out the if statement, and run script again.
 
-![](/pics/progressbar_02.png)
+![Bar_02](/pics/progressbar_02.PNG)
