@@ -9,7 +9,7 @@ def read_tag(tag):
 
 # Setup the PLC object with initial parameters
 comm = PLC()
-controller_ip = '192.168.176.1'  # Change to your plc ip address
+controller_ip = '192.168.0.26'  # Change to your plc ip address
 controller_slot = 1  # Change to your plc slot number, Only do this if slot is not 0
 comm.IPAddress = controller_ip
 comm.ProcessorSlot = controller_slot
